@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GitHubMergeDemo1Application {
 
-	private String merge = "merge demo" ;
+	private Integer nameId = 23 ;
 	
 	public static void main(String[] args) {
 		System.out.println("i am in dear");
